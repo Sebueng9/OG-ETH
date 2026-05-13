@@ -49,7 +49,7 @@ Public investment flow is set as a share of GDP, $I_{g,t} = \alpha_{I,t}\,Y_t$. 
 |:---------------|:-----:|:-----:|:-----:|:-----:|:--------:|
 | $\alpha_{I,t}$ | 0.040 | 0.045 | 0.050 | 0.055 | 0.060    |
 
-The $t = 0$ value comes from the [NBE Annual Report 2023/24](https://nbe.gov.et/wp-content/uploads/2025/06/Annual-Report-2023-2024.pdf), Section 3.5: general government capital expenditure was 467,457.6 million Birr against total expenditure of 1,120,077.3 million Birr, where total expenditure was 9.5% of GDP, giving $\alpha_I = (467{,}457.6 / 1{,}120{,}077.3) \times 0.095 = 0.0396$.  The $t \geq 4$ value of 0.060 matches the [IMF ECF program medium-term fiscal framework](https://www.imf.org/en/Publications/CR/Issues/2024/07/29/The-Federal-Democratic-Republic-of-Ethiopia-Request-for-an-Arrangement-Under-the-Extended-552556) and the five-year backward average prior to the recent fiscal consolidation.
+The $t = 0$ value comes from the [NBE Annual Report 2023/24](https://nbe.gov.et/wp-content/uploads/2025/06/Annual-Report-2023-2024.pdf), Section 3.5: general government capital expenditure was 467,457.6 million Birr against total expenditure of 1,120,077.3 million Birr, where total expenditure was 9.5% of GDP, giving $\alpha_I = (467{,}457.6 / 1{,}120{,}077.3) \times 0.095 = 0.0396$.  The $t \geq 4$ value of 0.060 matches the [IMF ECF program medium-term fiscal framework](https://www.imf.org/en/Publications/CR/Issues/2024/07/29/The-Federal-Democratic-Republic-of-Ethiopia-Request-for-an-Arrangement-Under-the-Extended-552556) and Ethiopia's public investment rate in 2018/19 and 2019/20, prior to the recent fiscal consolidation.
 
 ### Initial public capital to GDP ratio
 
